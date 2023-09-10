@@ -1,16 +1,10 @@
-# flutter_image_downloader
+# Flutter Image downloader application
 
-A new Flutter project.
+Download an image file from an URL and save it to a directory
 
-## Getting Started
+## Screen Shoot
+<p align="center">
+  <img width="350" height="700" src="https://github.com/Sohag-84/Image-Downloading-App/assets/99319134/10bf0937-fe52-49e3-ad90-921c7588a20d">
+  <img width="350" height="700" src="https://github.com/Sohag-84/Image-Downloading-App/assets/99319134/551bf7aa-2424-4e3c-95a3-136be302fcef">
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
